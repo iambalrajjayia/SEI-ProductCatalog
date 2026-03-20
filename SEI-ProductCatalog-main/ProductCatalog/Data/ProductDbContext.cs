@@ -86,9 +86,9 @@ namespace ProductCatalog.Data
                 new ProductAttribute { AttributeId = 10, ProductId = 3, AttributeName = "Height", AttributeValue = "45" },
 
                 //Book attributes
-                new ProductAttribute { AttributeId = 4, ProductId = 3, AttributeName = "Color", AttributeValue = "Orange" },
-                new ProductAttribute { AttributeId = 5, ProductId = 3, AttributeName = "Language", AttributeValue = "English" },
-                new ProductAttribute { AttributeId = 6, ProductId = 3, AttributeName = "Author", AttributeValue = "Balraj" }
+                new ProductAttribute { AttributeId = 11, ProductId = 4, AttributeName = "Color", AttributeValue = "Orange" },
+                new ProductAttribute { AttributeId = 12, ProductId = 4, AttributeName = "Language", AttributeValue = "English" },
+                new ProductAttribute { AttributeId = 13, ProductId = 4, AttributeName = "Author", AttributeValue = "Balraj" }
 
             );
         }
